@@ -1,0 +1,31 @@
+1.Analysis from box-plot
+
+Median value - which is the orange color line that divides the box into two. The median value shows that half of the scores are greater than or equal to 20 and half are less than 20.
+Lower quartile - 25% of the scores fall below 15.
+Upper quartile - 75% of the scores fall below 25.
+highest score is 35, excluding outliers
+lowest score is 2, excluding outliers
+The box plot shows that the 50% of values are between 15 and 25.
+
+2.Analysis from bar plot
+
+Each bar represents each category. Here 1 if tract bounds river, and 0 otherwise
+The barplot shows that there is around 450 counts for '0' and less than 50 counts for '1', Which shows there is higher count for '0' and lower for '1'
+
+3.Analysis from Box plot
+
+This bar plot shows how the MEDV variable changes in regard to AGE.
+As we can observe, The Age group '35 and younger' tends to occupy the houses than the other categories.
+There is a difference in the proportion of the values. ie, for the age group 'between 35 and 70' the mdeian value tends to lean towards the lower quartile, shows that around 10% values lean towards lower quartile and other 90% towards the upper quartile.
+Similar values are observed for other age categories.
+
+4.Analysis of scatter plot
+
+There is a positive correlation between Nitric oxide concentration and Proportion of non-retail business acres per town.
+There is a linear relationship between both of them
+
+5.Analysis of histogram
+
+There is a difference in the counts for the PTRATIO
+The highest number of values are found for the value 21, which is 140 counts.
+The lowest number of values are for the 14,22,15, which is around 0.
